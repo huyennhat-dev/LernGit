@@ -1,3 +1,3 @@
-hello index2.txt
-hahaha
+hello index2.txt -dev
+haahaaha 3
 
